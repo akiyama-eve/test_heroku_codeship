@@ -1,0 +1,5 @@
+{
+  "name": "test_heroku_codeship",
+  "private": true,
+  "dependencies": {}
+}
